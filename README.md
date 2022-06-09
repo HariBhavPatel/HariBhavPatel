@@ -1,4 +1,4 @@
-### Hi there 👋, Hari Patel
+### Hari Patel
 #### Computer Science Student 
 I am a aspiring Web/App Designer. Something that inspired me to pursue technology is the ability to create a strong community with code. I enjoy working with (HTML ,CSS ,Python , C++). 
 
